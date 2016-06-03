@@ -1,0 +1,3 @@
+[submodule "sphinxbase/sphinxbase"]
+	path = sphinxbase/sphinxbase
+	url = https://github.com/cmusphinx/sphinxbase.git
